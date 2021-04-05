@@ -1,0 +1,10 @@
+{
+  "name": "test_types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/delay": "^3.1.0",
+    "delay": "^5.0.0"
+  }
+}

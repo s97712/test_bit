@@ -1,0 +1,9 @@
+{
+    "name": "test_types",
+    "remotes": {},
+    "version": "1.0.47",
+    "lanes": {
+        "current": "master",
+        "tracking": []
+    }
+}
